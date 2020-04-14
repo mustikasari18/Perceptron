@@ -1,0 +1,2 @@
+# Perceptron
+Tugas Kuliah ANN
